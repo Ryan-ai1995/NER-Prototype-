@@ -1,0 +1,5098 @@
+{
+   "url": "https://www.gutenberg.org/cache/epub/2447/pg2447.txt",
+   "title": "Eminent Victorians",
+   "author": "Lytton Strachey",
+   "people": [
+      {
+         "name": "Gordon",
+         "count": 250,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 47
+            },
+            {
+               "name": "egypt",
+               "count": 20
+            },
+            {
+               "name": "england",
+               "count": 17
+            },
+            {
+               "name": "cairo",
+               "count": 15
+            },
+            {
+               "name": "khartoum",
+               "count": 15
+            },
+            {
+               "name": "china",
+               "count": 8
+            },
+            {
+               "name": "london",
+               "count": 8
+            },
+            {
+               "name": "heaven",
+               "count": 6
+            },
+            {
+               "name": "nile",
+               "count": 5
+            },
+            {
+               "name": "darfur",
+               "count": 5
+            },
+            {
+               "name": "shanghai",
+               "count": 4
+            },
+            {
+               "name": "canton",
+               "count": 3
+            },
+            {
+               "name": "equatoria",
+               "count": 3
+            },
+            {
+               "name": "russia",
+               "count": 3
+            },
+            {
+               "name": "southampton",
+               "count": 3
+            },
+            {
+               "name": "cyprus",
+               "count": 3
+            },
+            {
+               "name": "eastern sudan",
+               "count": 3
+            },
+            {
+               "name": "suakin",
+               "count": 3
+            },
+            {
+               "name": "windsor",
+               "count": 3
+            },
+            {
+               "name": "westminster",
+               "count": 3
+            },
+            {
+               "name": "yangtse",
+               "count": 2
+            },
+            {
+               "name": "europe",
+               "count": 2
+            },
+            {
+               "name": "kordofan",
+               "count": 2
+            },
+            {
+               "name": "el obeid",
+               "count": 2
+            },
+            {
+               "name": "equator",
+               "count": 2
+            },
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "summer palace",
+               "count": 1
+            },
+            {
+               "name": "peking",
+               "count": 1
+            },
+            {
+               "name": "christianity",
+               "count": 1
+            },
+            {
+               "name": "paris",
+               "count": 1
+            },
+            {
+               "name": "baggara",
+               "count": 1
+            },
+            {
+               "name": "victoria station",
+               "count": 1
+            },
+            {
+               "name": "berber",
+               "count": 1
+            },
+            {
+               "name": "red sea",
+               "count": 1
+            },
+            {
+               "name": "hyde park",
+               "count": 1
+            },
+            {
+               "name": "manchester",
+               "count": 1
+            },
+            {
+               "name": "central africa",
+               "count": 1
+            },
+            {
+               "name": "africa",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Manning",
+         "count": 165,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 27
+            },
+            {
+               "name": "england",
+               "count": 20
+            },
+            {
+               "name": "see",
+               "count": 13
+            },
+            {
+               "name": "vatican",
+               "count": 12
+            },
+            {
+               "name": "westminster",
+               "count": 9
+            },
+            {
+               "name": "father",
+               "count": 9
+            },
+            {
+               "name": "birmingham",
+               "count": 8
+            },
+            {
+               "name": "norfolk",
+               "count": 8
+            },
+            {
+               "name": "oratory",
+               "count": 7
+            },
+            {
+               "name": "trebizond",
+               "count": 6
+            },
+            {
+               "name": "chichester",
+               "count": 5
+            },
+            {
+               "name": "church",
+               "count": 5
+            },
+            {
+               "name": "passy",
+               "count": 5
+            },
+            {
+               "name": "brighton",
+               "count": 3
+            },
+            {
+               "name": "europe",
+               "count": 3
+            },
+            {
+               "name": "london",
+               "count": 2
+            },
+            {
+               "name": "isle of man",
+               "count": 2
+            },
+            {
+               "name": "denmark",
+               "count": 2
+            },
+            {
+               "name": "paris",
+               "count": 2
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "high mass",
+               "count": 1
+            },
+            {
+               "name": "exeter hall",
+               "count": 1
+            },
+            {
+               "name": "docks",
+               "count": 1
+            },
+            {
+               "name": "mayfair",
+               "count": 1
+            },
+            {
+               "name": "prince of the church",
+               "count": 1
+            },
+            {
+               "name": "sussex",
+               "count": 1
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "chichester cathedral",
+               "count": 1
+            },
+            {
+               "name": "york",
+               "count": 1
+            },
+            {
+               "name": "of rome",
+               "count": 1
+            },
+            {
+               "name": "curia",
+               "count": 1
+            },
+            {
+               "name": "clifton",
+               "count": 1
+            },
+            {
+               "name": "hall",
+               "count": 1
+            },
+            {
+               "name": "house of the oratory",
+               "count": 1
+            },
+            {
+               "name": "borghese gardens",
+               "count": 1
+            },
+            {
+               "name": "del",
+               "count": 1
+            },
+            {
+               "name": "brussels",
+               "count": 1
+            },
+            {
+               "name": "guildhall",
+               "count": 1
+            },
+            {
+               "name": "wales",
+               "count": 1
+            },
+            {
+               "name": "cathedral",
+               "count": 1
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Newman",
+         "count": 141,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 36
+            },
+            {
+               "name": "england",
+               "count": 19
+            },
+            {
+               "name": "see",
+               "count": 11
+            },
+            {
+               "name": "birmingham",
+               "count": 10
+            },
+            {
+               "name": "church",
+               "count": 9
+            },
+            {
+               "name": "oxford",
+               "count": 6
+            },
+            {
+               "name": "norfolk",
+               "count": 6
+            },
+            {
+               "name": "oratory",
+               "count": 6
+            },
+            {
+               "name": "benares",
+               "count": 4
+            },
+            {
+               "name": "naples",
+               "count": 3
+            },
+            {
+               "name": "vatican",
+               "count": 3
+            },
+            {
+               "name": "passy",
+               "count": 3
+            },
+            {
+               "name": "germany",
+               "count": 2
+            },
+            {
+               "name": "loreto",
+               "count": 2
+            },
+            {
+               "name": "of rome",
+               "count": 2
+            },
+            {
+               "name": "clifton",
+               "count": 2
+            },
+            {
+               "name": "father",
+               "count": 2
+            },
+            {
+               "name": "common room of",
+               "count": 1
+            },
+            {
+               "name": "oriel",
+               "count": 1
+            },
+            {
+               "name": "st walburga",
+               "count": 1
+            },
+            {
+               "name": "christianity",
+               "count": 1
+            },
+            {
+               "name": "brighton",
+               "count": 1
+            },
+            {
+               "name": "chiesa",
+               "count": 1
+            },
+            {
+               "name": "palestine",
+               "count": 1
+            },
+            {
+               "name": "of england",
+               "count": 1
+            },
+            {
+               "name": "bramford speke",
+               "count": 1
+            },
+            {
+               "name": "exeter",
+               "count": 1
+            },
+            {
+               "name": "de lugo",
+               "count": 1
+            },
+            {
+               "name": "mother church",
+               "count": 1
+            },
+            {
+               "name": "westminster",
+               "count": 1
+            },
+            {
+               "name": "france",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "guildhall",
+               "count": 1
+            },
+            {
+               "name": "chichester",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "God",
+         "count": 121,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 8
+            },
+            {
+               "name": "rome",
+               "count": 7
+            },
+            {
+               "name": "london",
+               "count": 6
+            },
+            {
+               "name": "college chapel",
+               "count": 4
+            },
+            {
+               "name": "oxford",
+               "count": 4
+            },
+            {
+               "name": "sudan",
+               "count": 4
+            },
+            {
+               "name": "chichester",
+               "count": 3
+            },
+            {
+               "name": "europe",
+               "count": 3
+            },
+            {
+               "name": "holy",
+               "count": 3
+            },
+            {
+               "name": "scutari",
+               "count": 3
+            },
+            {
+               "name": "yangtse kiang",
+               "count": 3
+            },
+            {
+               "name": "christianity",
+               "count": 3
+            },
+            {
+               "name": "equatoria",
+               "count": 3
+            },
+            {
+               "name": "crimea",
+               "count": 2
+            },
+            {
+               "name": "america",
+               "count": 2
+            },
+            {
+               "name": "canton",
+               "count": 2
+            },
+            {
+               "name": "egypt",
+               "count": 2
+            },
+            {
+               "name": "york",
+               "count": 1
+            },
+            {
+               "name": "jerusalem",
+               "count": 1
+            },
+            {
+               "name": "samaria",
+               "count": 1
+            },
+            {
+               "name": "south",
+               "count": 1
+            },
+            {
+               "name": "peter",
+               "count": 1
+            },
+            {
+               "name": "birmingham",
+               "count": 1
+            },
+            {
+               "name": "mother church",
+               "count": 1
+            },
+            {
+               "name": "denmark",
+               "count": 1
+            },
+            {
+               "name": "westminster",
+               "count": 1
+            },
+            {
+               "name": "paris",
+               "count": 1
+            },
+            {
+               "name": "italy",
+               "count": 1
+            },
+            {
+               "name": "eternal city",
+               "count": 1
+            },
+            {
+               "name": "grosvenor hotel",
+               "count": 1
+            },
+            {
+               "name": "harley street",
+               "count": 1
+            },
+            {
+               "name": "india",
+               "count": 1
+            },
+            {
+               "name": "chapel",
+               "count": 1
+            },
+            {
+               "name": "nankin",
+               "count": 1
+            },
+            {
+               "name": "great lakes",
+               "count": 1
+            },
+            {
+               "name": "nile",
+               "count": 1
+            },
+            {
+               "name": "khartoum",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Gladstone",
+         "count": 80,
+         "associated_places": [
+            {
+               "name": "khartoum",
+               "count": 11
+            },
+            {
+               "name": "england",
+               "count": 10
+            },
+            {
+               "name": "egypt",
+               "count": 5
+            },
+            {
+               "name": "sudan",
+               "count": 5
+            },
+            {
+               "name": "france",
+               "count": 4
+            },
+            {
+               "name": "vatican",
+               "count": 3
+            },
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "see",
+               "count": 2
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "florence",
+               "count": 2
+            },
+            {
+               "name": "eastern sudan",
+               "count": 2
+            },
+            {
+               "name": "milton",
+               "count": 2
+            },
+            {
+               "name": "westminster",
+               "count": 2
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "windsor",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Miss Nightingale",
+         "count": 74,
+         "associated_places": [
+            {
+               "name": "scutari",
+               "count": 16
+            },
+            {
+               "name": "england",
+               "count": 14
+            },
+            {
+               "name": "crimea",
+               "count": 14
+            },
+            {
+               "name": "east",
+               "count": 3
+            },
+            {
+               "name": "constantinople",
+               "count": 3
+            },
+            {
+               "name": "florence",
+               "count": 2
+            },
+            {
+               "name": "pera",
+               "count": 2
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "bayswater",
+               "count": 1
+            },
+            {
+               "name": "barrack hospital",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "wilton",
+               "count": 1
+            },
+            {
+               "name": "hampstead",
+               "count": 1
+            },
+            {
+               "name": "highgate",
+               "count": 1
+            },
+            {
+               "name": "derbyshire",
+               "count": 1
+            },
+            {
+               "name": "malvern",
+               "count": 1
+            },
+            {
+               "name": "india",
+               "count": 1
+            },
+            {
+               "name": "scotland",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Arnold",
+         "count": 70,
+         "associated_places": [
+            {
+               "name": "rugby",
+               "count": 10
+            },
+            {
+               "name": "eton",
+               "count": 5
+            },
+            {
+               "name": "oxford",
+               "count": 4
+            },
+            {
+               "name": "england",
+               "count": 3
+            },
+            {
+               "name": "chapel",
+               "count": 3
+            },
+            {
+               "name": "oriel",
+               "count": 2
+            },
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            },
+            {
+               "name": "long chamber",
+               "count": 1
+            },
+            {
+               "name": "keate",
+               "count": 1
+            },
+            {
+               "name": "westmorland",
+               "count": 1
+            },
+            {
+               "name": "nature",
+               "count": 1
+            },
+            {
+               "name": "rugby chapel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "St",
+         "count": 38,
+         "associated_places": [
+            {
+               "name": "naples",
+               "count": 5
+            },
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "loreto",
+               "count": 2
+            },
+            {
+               "name": "chiesa",
+               "count": 1
+            },
+            {
+               "name": "palestine",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Sidney Herbert",
+         "count": 29,
+         "associated_places": [
+            {
+               "name": "scutari",
+               "count": 6
+            },
+            {
+               "name": "england",
+               "count": 3
+            },
+            {
+               "name": "barrack hospital",
+               "count": 2
+            },
+            {
+               "name": "crimea",
+               "count": 2
+            },
+            {
+               "name": "india",
+               "count": 2
+            },
+            {
+               "name": "wilton",
+               "count": 2
+            },
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "marseilles",
+               "count": 1
+            },
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "hampstead",
+               "count": 1
+            },
+            {
+               "name": "highgate",
+               "count": 1
+            },
+            {
+               "name": "derbyshire",
+               "count": 1
+            },
+            {
+               "name": "malvern",
+               "count": 1
+            },
+            {
+               "name": "spa",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Nightingale",
+         "count": 26,
+         "associated_places": [
+            {
+               "name": "florence",
+               "count": 8
+            },
+            {
+               "name": "constantinople",
+               "count": 5
+            },
+            {
+               "name": "scutari",
+               "count": 5
+            },
+            {
+               "name": "east",
+               "count": 4
+            },
+            {
+               "name": "rome",
+               "count": 3
+            },
+            {
+               "name": "bayswater",
+               "count": 3
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "heaven",
+               "count": 2
+            },
+            {
+               "name": "salisbury",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "pera",
+               "count": 2
+            },
+            {
+               "name": "embley",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "barrack hospital",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Talbot",
+         "count": 25,
+         "associated_places": [
+            {
+               "name": "father",
+               "count": 5
+            },
+            {
+               "name": "rome",
+               "count": 4
+            },
+            {
+               "name": "curia",
+               "count": 3
+            },
+            {
+               "name": "england",
+               "count": 3
+            },
+            {
+               "name": "chichester",
+               "count": 2
+            },
+            {
+               "name": "vatican",
+               "count": 2
+            },
+            {
+               "name": "see",
+               "count": 2
+            },
+            {
+               "name": "birmingham",
+               "count": 2
+            },
+            {
+               "name": "oratory",
+               "count": 2
+            },
+            {
+               "name": "westminster",
+               "count": 1
+            },
+            {
+               "name": "piazza del popolo",
+               "count": 1
+            },
+            {
+               "name": "passy",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hartington",
+         "count": 21,
+         "associated_places": [
+            {
+               "name": "egypt",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Evelyn Baring",
+         "count": 19,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 18
+            },
+            {
+               "name": "egypt",
+               "count": 6
+            },
+            {
+               "name": "cairo",
+               "count": 4
+            },
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "darfur",
+               "count": 1
+            },
+            {
+               "name": "cyprus",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Pope",
+         "count": 17,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 6
+            },
+            {
+               "name": "father",
+               "count": 6
+            },
+            {
+               "name": "westminster",
+               "count": 3
+            },
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "vatican",
+               "count": 2
+            },
+            {
+               "name": "italy",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "trebizond",
+               "count": 1
+            },
+            {
+               "name": "chichester",
+               "count": 1
+            },
+            {
+               "name": "curia",
+               "count": 1
+            },
+            {
+               "name": "see",
+               "count": 1
+            },
+            {
+               "name": "our lady",
+               "count": 1
+            },
+            {
+               "name": "france",
+               "count": 1
+            },
+            {
+               "name": "germany",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Lord",
+         "count": 17,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 6
+            },
+            {
+               "name": "father",
+               "count": 4
+            },
+            {
+               "name": "rome",
+               "count": 3
+            },
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "france",
+               "count": 2
+            },
+            {
+               "name": "bramford speke",
+               "count": 1
+            },
+            {
+               "name": "exeter",
+               "count": 1
+            },
+            {
+               "name": "italy",
+               "count": 1
+            },
+            {
+               "name": "our lady",
+               "count": 1
+            },
+            {
+               "name": "see",
+               "count": 1
+            },
+            {
+               "name": "norfolk",
+               "count": 1
+            },
+            {
+               "name": "christendom",
+               "count": 1
+            },
+            {
+               "name": "germany",
+               "count": 1
+            },
+            {
+               "name": "vatican",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Christ",
+         "count": 16,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 5
+            },
+            {
+               "name": "england",
+               "count": 3
+            },
+            {
+               "name": "rome",
+               "count": 2
+            },
+            {
+               "name": "of rome",
+               "count": 2
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "vatican",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Ward",
+         "count": 15,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 9
+            },
+            {
+               "name": "english church",
+               "count": 6
+            },
+            {
+               "name": "florence",
+               "count": 6
+            },
+            {
+               "name": "rome",
+               "count": 5
+            },
+            {
+               "name": "dean church",
+               "count": 3
+            }
+         ]
+      },
+      {
+         "name": "John",
+         "count": 13,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 6
+            },
+            {
+               "name": "rome",
+               "count": 5
+            },
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "see",
+               "count": 2
+            },
+            {
+               "name": "of england",
+               "count": 1
+            },
+            {
+               "name": "italy",
+               "count": 1
+            },
+            {
+               "name": "norfolk",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Stewart",
+         "count": 13,
+         "associated_places": [
+            {
+               "name": "egypt",
+               "count": 5
+            },
+            {
+               "name": "nile",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Holy",
+         "count": 12,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 6
+            },
+            {
+               "name": "loreto",
+               "count": 4
+            },
+            {
+               "name": "chiesa",
+               "count": 2
+            },
+            {
+               "name": "naples",
+               "count": 2
+            },
+            {
+               "name": "palestine",
+               "count": 2
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Herbert",
+         "count": 10,
+         "associated_places": [
+            {
+               "name": "scutari",
+               "count": 7
+            },
+            {
+               "name": "england",
+               "count": 6
+            },
+            {
+               "name": "east",
+               "count": 2
+            },
+            {
+               "name": "father",
+               "count": 1
+            },
+            {
+               "name": "constantinople",
+               "count": 1
+            },
+            {
+               "name": "barrack hospital",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "marseilles",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hicks",
+         "count": 10,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 9
+            },
+            {
+               "name": "cairo",
+               "count": 5
+            },
+            {
+               "name": "egypt",
+               "count": 5
+            },
+            {
+               "name": "el obeid",
+               "count": 5
+            },
+            {
+               "name": "el",
+               "count": 5
+            },
+            {
+               "name": "kordofan",
+               "count": 3
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "southampton",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Cardinal",
+         "count": 9,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 3
+            },
+            {
+               "name": "high mass",
+               "count": 1
+            },
+            {
+               "name": "oratory",
+               "count": 1
+            },
+            {
+               "name": "exeter hall",
+               "count": 1
+            },
+            {
+               "name": "docks",
+               "count": 1
+            },
+            {
+               "name": "mayfair",
+               "count": 1
+            },
+            {
+               "name": "prince of the church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "italy",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Stead",
+         "count": 9,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 4
+            },
+            {
+               "name": "southampton",
+               "count": 2
+            },
+            {
+               "name": "london",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Andrew Smith",
+         "count": 9,
+         "associated_places": [
+            {
+               "name": "scutari",
+               "count": 6
+            },
+            {
+               "name": "barrack hospital",
+               "count": 2
+            },
+            {
+               "name": "london",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "marseilles",
+               "count": 2
+            },
+            {
+               "name": "east",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Barnes",
+         "count": 9,
+         "associated_places": []
+      },
+      {
+         "name": "Duke",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "vatican",
+               "count": 4
+            },
+            {
+               "name": "norfolk",
+               "count": 3
+            },
+            {
+               "name": "father",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "see",
+               "count": 2
+            },
+            {
+               "name": "grosvenor hotel",
+               "count": 1
+            },
+            {
+               "name": "chichester",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Keble",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "common room of",
+               "count": 1
+            },
+            {
+               "name": "oriel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Errington",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "trebizond",
+               "count": 6
+            },
+            {
+               "name": "england",
+               "count": 3
+            },
+            {
+               "name": "douay",
+               "count": 2
+            },
+            {
+               "name": "chichester",
+               "count": 1
+            },
+            {
+               "name": "westminster",
+               "count": 1
+            },
+            {
+               "name": "of rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Cullen",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 6
+            },
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "see",
+               "count": 2
+            },
+            {
+               "name": "our lady",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Li Hung Chang",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "shanghai",
+               "count": 2
+            },
+            {
+               "name": "china",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "russia",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Samuel Baker",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 2
+            },
+            {
+               "name": "sinkat",
+               "count": 2
+            },
+            {
+               "name": "tokar",
+               "count": 2
+            },
+            {
+               "name": "eastern sudan",
+               "count": 1
+            },
+            {
+               "name": "red sea",
+               "count": 1
+            },
+            {
+               "name": "suakin",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Evelyn",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 3
+            },
+            {
+               "name": "southampton",
+               "count": 1
+            },
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "darfur",
+               "count": 1
+            },
+            {
+               "name": "cairo",
+               "count": 1
+            },
+            {
+               "name": "cyprus",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Granville",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 2
+            },
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Abraham",
+         "count": 7,
+         "associated_places": [
+            {
+               "name": "of",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jesus",
+         "count": 7,
+         "associated_places": [
+            {
+               "name": "yangtse kiang",
+               "count": 2
+            },
+            {
+               "name": "nankin",
+               "count": 2
+            },
+            {
+               "name": "america",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Go",
+         "count": 7,
+         "associated_places": [
+            {
+               "name": "york",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hall",
+         "count": 7,
+         "associated_places": [
+            {
+               "name": "hall",
+               "count": 4
+            },
+            {
+               "name": "rome",
+               "count": 3
+            },
+            {
+               "name": "oxford",
+               "count": 2
+            },
+            {
+               "name": "house of the oratory",
+               "count": 2
+            },
+            {
+               "name": "birmingham",
+               "count": 2
+            },
+            {
+               "name": "high mass",
+               "count": 1
+            },
+            {
+               "name": "oratory",
+               "count": 1
+            },
+            {
+               "name": "exeter hall",
+               "count": 1
+            },
+            {
+               "name": "docks",
+               "count": 1
+            },
+            {
+               "name": "mayfair",
+               "count": 1
+            },
+            {
+               "name": "prince of the church",
+               "count": 1
+            },
+            {
+               "name": "pera",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Gerald Graham",
+         "count": 7,
+         "associated_places": [
+            {
+               "name": "sinkat",
+               "count": 4
+            },
+            {
+               "name": "tokar",
+               "count": 4
+            },
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "sudan",
+               "count": 2
+            },
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "eastern sudan",
+               "count": 1
+            },
+            {
+               "name": "khartoum",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hare",
+         "count": 6,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 4
+            },
+            {
+               "name": "the",
+               "count": 4
+            },
+            {
+               "name": "brighton",
+               "count": 2
+            },
+            {
+               "name": "chichester",
+               "count": 1
+            },
+            {
+               "name": "vatican",
+               "count": 1
+            },
+            {
+               "name": "curia",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Arthur Clough",
+         "count": 6,
+         "associated_places": []
+      },
+      {
+         "name": "Peter",
+         "count": 6,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "see",
+               "count": 1
+            },
+            {
+               "name": "our lady",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "christendom",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Sidney",
+         "count": 6,
+         "associated_places": [
+            {
+               "name": "scutari",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "wilton",
+               "count": 2
+            },
+            {
+               "name": "florence",
+               "count": 2
+            },
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "ireland",
+               "count": 1
+            },
+            {
+               "name": "scotland",
+               "count": 1
+            },
+            {
+               "name": "spa",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Kingsley",
+         "count": 5,
+         "associated_places": [
+            {
+               "name": "benares",
+               "count": 3
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Macdonald",
+         "count": 5,
+         "associated_places": [
+            {
+               "name": "scutari",
+               "count": 4
+            },
+            {
+               "name": "marseilles",
+               "count": 2
+            },
+            {
+               "name": "east",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Simpson",
+         "count": 5,
+         "associated_places": []
+      },
+      {
+         "name": "Palmerston",
+         "count": 5,
+         "associated_places": []
+      },
+      {
+         "name": "Augusta",
+         "count": 5,
+         "associated_places": []
+      },
+      {
+         "name": "Bordeini Bey",
+         "count": 5,
+         "associated_places": [
+            {
+               "name": "khartoum",
+               "count": 4
+            }
+         ]
+      },
+      {
+         "name": "Florence",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "florence",
+               "count": 4
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "rome",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Henry",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "common room of",
+               "count": 1
+            },
+            {
+               "name": "oriel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Bowdler",
+         "count": 4,
+         "associated_places": []
+      },
+      {
+         "name": "Smith",
+         "count": 4,
+         "associated_places": []
+      },
+      {
+         "name": "Pius",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "father",
+               "count": 2
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "vatican",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "westminster",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Robert Wilberforce",
+         "count": 4,
+         "associated_places": []
+      },
+      {
+         "name": "Searle",
+         "count": 4,
+         "associated_places": []
+      },
+      {
+         "name": "Acton",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Florence Nightingale",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "crimea",
+               "count": 1
+            },
+            {
+               "name": "florence",
+               "count": 1
+            },
+            {
+               "name": "romsey",
+               "count": 1
+            },
+            {
+               "name": "south street",
+               "count": 1
+            },
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Sutherland",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 2
+            },
+            {
+               "name": "hampstead",
+               "count": 1
+            },
+            {
+               "name": "highgate",
+               "count": 1
+            },
+            {
+               "name": "derbyshire",
+               "count": 1
+            },
+            {
+               "name": "malvern",
+               "count": 1
+            },
+            {
+               "name": "india",
+               "count": 1
+            },
+            {
+               "name": "ireland",
+               "count": 1
+            },
+            {
+               "name": "scotland",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mill",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "scutari",
+               "count": 2
+            },
+            {
+               "name": "universe",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Long",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "high mass",
+               "count": 2
+            },
+            {
+               "name": "oratory",
+               "count": 2
+            },
+            {
+               "name": "exeter hall",
+               "count": 2
+            },
+            {
+               "name": "docks",
+               "count": 2
+            },
+            {
+               "name": "mayfair",
+               "count": 2
+            },
+            {
+               "name": "prince of the church",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jesus Christ",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "vatican",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Him",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Augustine",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Wiseman",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Father Smith",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Al",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Elizabeth",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Father Newman",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Father St",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 4
+            },
+            {
+               "name": "england",
+               "count": 3
+            },
+            {
+               "name": "see",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Guizot",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 6
+            },
+            {
+               "name": "paris",
+               "count": 2
+            },
+            {
+               "name": "europe",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "pompeii",
+               "count": 1
+            },
+            {
+               "name": "sodom",
+               "count": 1
+            },
+            {
+               "name": "gomorrah",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Act",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Russell",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Archbishop",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "york",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Cardinal Manning",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "birmingham",
+               "count": 1
+            },
+            {
+               "name": "guildhall",
+               "count": 1
+            },
+            {
+               "name": "wales",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Stratford",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Victoria",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "crimea",
+               "count": 2
+            },
+            {
+               "name": "salisbury plain",
+               "count": 1
+            },
+            {
+               "name": "chatham",
+               "count": 1
+            },
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "victoria station",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mai",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "hampstead",
+               "count": 1
+            },
+            {
+               "name": "highgate",
+               "count": 1
+            },
+            {
+               "name": "derbyshire",
+               "count": 1
+            },
+            {
+               "name": "malvern",
+               "count": 1
+            },
+            {
+               "name": "india",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Clough",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Ben Hawes",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Lawrence",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "india",
+               "count": 2
+            },
+            {
+               "name": "scutari",
+               "count": 2
+            },
+            {
+               "name": "panama",
+               "count": 2
+            },
+            {
+               "name": "florence",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Thomas Arnold",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "General",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 1
+            },
+            {
+               "name": "christendom",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hong",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "america",
+               "count": 2
+            },
+            {
+               "name": "yangtse kiang",
+               "count": 2
+            },
+            {
+               "name": "nankin",
+               "count": 2
+            },
+            {
+               "name": "canton",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Ismail",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Pasha",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 2
+            },
+            {
+               "name": "red sea",
+               "count": 2
+            },
+            {
+               "name": "suakin",
+               "count": 2
+            },
+            {
+               "name": "darfur",
+               "count": 2
+            },
+            {
+               "name": "equatoria",
+               "count": 2
+            },
+            {
+               "name": "great lakes",
+               "count": 2
+            },
+            {
+               "name": "el obeid",
+               "count": 1
+            },
+            {
+               "name": "el",
+               "count": 1
+            },
+            {
+               "name": "cairo",
+               "count": 1
+            },
+            {
+               "name": "france",
+               "count": 1
+            },
+            {
+               "name": "germany",
+               "count": 1
+            },
+            {
+               "name": "spain",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mohammed Ahmed",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "khartoum",
+               "count": 5
+            },
+            {
+               "name": "abba island",
+               "count": 4
+            },
+            {
+               "name": "he",
+               "count": 4
+            },
+            {
+               "name": "cairo",
+               "count": 1
+            },
+            {
+               "name": "upper nile",
+               "count": 1
+            },
+            {
+               "name": "bey",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "equatoria",
+               "count": 1
+            },
+            {
+               "name": "central africa",
+               "count": 1
+            },
+            {
+               "name": "el obeid",
+               "count": 1
+            },
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Gordon Pasha",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Samuel Wilberforce",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Whately",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "oriel",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "John Keble",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "oriel",
+               "count": 1
+            },
+            {
+               "name": "room",
+               "count": 1
+            },
+            {
+               "name": "cathedral",
+               "count": 1
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "florence",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Timothy",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Providence",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Tau",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Jerome",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Shuttleworth",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Wise",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Father",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Satan",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Elijah",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "rome",
+               "count": 2
+            },
+            {
+               "name": "of england",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Harriet",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Dr",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Spirit",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Tierney",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Edmund",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "douay",
+               "count": 1
+            },
+            {
+               "name": "trebizond",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Blougram",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "south",
+               "count": 1
+            },
+            {
+               "name": "peter",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Antonelli",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "de lugo",
+               "count": 2
+            },
+            {
+               "name": "rome",
+               "count": 2
+            },
+            {
+               "name": "vatican",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Thomas",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Lucas",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 6
+            },
+            {
+               "name": "see",
+               "count": 2
+            },
+            {
+               "name": "our lady",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mark Pattison",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "florence",
+               "count": 2
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dollinger",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 2
+            },
+            {
+               "name": "france",
+               "count": 1
+            },
+            {
+               "name": "germany",
+               "count": 1
+            },
+            {
+               "name": "see",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Clarendon",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Huxley",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "grosvenor hotel",
+               "count": 1
+            },
+            {
+               "name": "italy",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "John Morley",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "grosvenor hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Cardinal Newman",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "cathedral",
+               "count": 1
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "florence",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Li",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "father",
+               "count": 3
+            },
+            {
+               "name": "westminster",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Lord Morley",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "florence",
+               "count": 2
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "John Hall",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "south street",
+               "count": 1
+            },
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jarvis",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Andrew",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Arthur",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "ireland",
+               "count": 1
+            },
+            {
+               "name": "scotland",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Fortune",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "wilton",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Coleridge",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "cathedral",
+               "count": 1
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Tom",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "rugby",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Je",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Isaiah",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "cairo",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Strauss",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Matthew",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "westmorland",
+               "count": 1
+            },
+            {
+               "name": "nature",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Tom Brown",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "chapel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Charles George Gordon",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Charlie Gordon",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Drew",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "sussex",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Scott",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Si",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "khartoum",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "sudan",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Di",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "westminster",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Paul",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "see",
+               "count": 1
+            },
+            {
+               "name": "our lady",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "William",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "india",
+               "count": 2
+            },
+            {
+               "name": "bombay",
+               "count": 2
+            },
+            {
+               "name": "china",
+               "count": 1
+            },
+            {
+               "name": "russia",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mahommed Ahmed",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Arabi",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Lupton Bey",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Emir Pasha",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "cairo",
+               "count": 1
+            },
+            {
+               "name": "upper nile",
+               "count": 1
+            },
+            {
+               "name": "bey",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "equatoria",
+               "count": 1
+            },
+            {
+               "name": "central africa",
+               "count": 1
+            },
+            {
+               "name": "el obeid",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Major Kitchener",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "egypt",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Charles Wilson",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "khartoum",
+               "count": 6
+            },
+            {
+               "name": "metemmah",
+               "count": 3
+            },
+            {
+               "name": "bordeen",
+               "count": 2
+            },
+            {
+               "name": "abu klea",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Martin Adamson",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Edward Cook",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Francis",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Innocent",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Newcastle",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Samuel",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "De",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Bentham",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mills",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Titus",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "John Henry Newman",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Beethoven",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "chartres",
+               "count": 1
+            },
+            {
+               "name": "cambridge",
+               "count": 1
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "st walburga",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Pusey",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "germany",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Or",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Maitland",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Clement",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Justin",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Charles Kingsley",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "benares",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "John Baptist",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "naples",
+               "count": 2
+            },
+            {
+               "name": "ravello",
+               "count": 1
+            },
+            {
+               "name": "amalfi",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Elias",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "loreto",
+               "count": 1
+            },
+            {
+               "name": "palestine",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Handel",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Mozart",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Noah",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Bega",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Adamnan",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Gundleus",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Brother",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Ninian",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "German",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Helier",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Cuthbert",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "James",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Anthony",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Little",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Sibthorpe",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Morris",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "James Anthony",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "James Graham",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Robinson Crusoe",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "york",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Baptist",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Enoch",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "rome",
+               "count": 2
+            },
+            {
+               "name": "of england",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Maskell",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dodsworth",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Galton",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "May",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Emma",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Phillpotts",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Cornelius",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "peter",
+               "count": 1
+            },
+            {
+               "name": "jerusalem",
+               "count": 1
+            },
+            {
+               "name": "samaria",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Robert",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "We",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "John Russell",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Erring",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Holy Ghost",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "father",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Sea",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "loreto",
+               "count": 2
+            },
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "chiesa",
+               "count": 1
+            },
+            {
+               "name": "naples",
+               "count": 1
+            },
+            {
+               "name": "palestine",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mann",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Perrone",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "de lugo",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Barnabo",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "de lugo",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Peel",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Baines",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "see",
+               "count": 1
+            },
+            {
+               "name": "church",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Ne",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Edward Howard",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Nicholas",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Pio Nono",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Napoleon",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 3
+            }
+         ]
+      },
+      {
+         "name": "Oliver Cromwell",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "see",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Faith",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "high mass",
+               "count": 1
+            },
+            {
+               "name": "oratory",
+               "count": 1
+            },
+            {
+               "name": "exeter hall",
+               "count": 1
+            },
+            {
+               "name": "docks",
+               "count": 1
+            },
+            {
+               "name": "mayfair",
+               "count": 1
+            },
+            {
+               "name": "prince of the church",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Tyndall",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "grosvenor hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "James Stephen",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "grosvenor hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dean Church",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "grosvenor hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Irenaeus",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Ambrose",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Gregory",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Lessius",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Fathers",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Aretas",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Haymo",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "An",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Rupert",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Daniel",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 1
+            },
+            {
+               "name": "city of rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Gaspar Melus",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Suarez",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Bosius",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Leo",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Te",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Madonna",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "house",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "John Burns",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "house",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Ben Tillett",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "house",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Henry George",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "house",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mr",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Hayward",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Macaulay",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Sacred",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Hutton",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "cathedral",
+               "count": 1
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Herbert Paul",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 3
+            },
+            {
+               "name": "english church",
+               "count": 2
+            },
+            {
+               "name": "florence",
+               "count": 2
+            },
+            {
+               "name": "dean church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Nash",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "florence",
+               "count": 2
+            },
+            {
+               "name": "english church",
+               "count": 1
+            },
+            {
+               "name": "rome",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dust",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 2
+            },
+            {
+               "name": "vatican",
+               "count": 1
+            },
+            {
+               "name": "france",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Fate",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "common room of",
+               "count": 1
+            },
+            {
+               "name": "oriel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Stratford De Redcliffe",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Lord Stratford",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "constantinople",
+               "count": 1
+            },
+            {
+               "name": "pera",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Bridgeman",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Bridge",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Reverend",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "bramford speke",
+               "count": 1
+            },
+            {
+               "name": "exeter",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Raglan",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "scutari",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Harry Verney",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "As",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Benjamin Hawes",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Ben",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Prince",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "high mass",
+               "count": 1
+            },
+            {
+               "name": "oratory",
+               "count": 1
+            },
+            {
+               "name": "exeter hall",
+               "count": 1
+            },
+            {
+               "name": "docks",
+               "count": 1
+            },
+            {
+               "name": "mayfair",
+               "count": 1
+            },
+            {
+               "name": "prince of the church",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Albert",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Philip Sidney",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "wilton",
+               "count": 2
+            },
+            {
+               "name": "florence",
+               "count": 2
+            },
+            {
+               "name": "scutari",
+               "count": 1
+            },
+            {
+               "name": "spa",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Aunt",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Aunt Mai",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "hampstead",
+               "count": 1
+            },
+            {
+               "name": "highgate",
+               "count": 1
+            },
+            {
+               "name": "derbyshire",
+               "count": 1
+            },
+            {
+               "name": "malvern",
+               "count": 1
+            },
+            {
+               "name": "india",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Samuel Butler",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Law",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Pasteur",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Khan",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "crimea",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Alma",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Edward",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Douglas Dawson",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "romsey",
+               "count": 1
+            },
+            {
+               "name": "south street",
+               "count": 1
+            },
+            {
+               "name": "clarendon",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Kinglake",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "romsey",
+               "count": 1
+            },
+            {
+               "name": "south street",
+               "count": 1
+            },
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Osborne",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "romsey",
+               "count": 1
+            },
+            {
+               "name": "south street",
+               "count": 1
+            },
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Stanmore",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "south street",
+               "count": 1
+            },
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Abbott",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Campbell",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Benjamin Jowett",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "clarendon",
+               "count": 1
+            },
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hawkins",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "warwickshire",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Justice Coleridge",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Trinity",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Pole",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Propertius",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "rugby",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "James Mill",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Jeremiah",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Amos",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Le",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Wordsworth",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "nature",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Sismondi",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Bacon",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Brooke",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "chapel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dean Stanley",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Thomas Hughes",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Gideon",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Lord Hartington",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Charlie",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Elgin",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Mother",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Chang",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "shanghai",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Nankin",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Albert Nyanza",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "cairo",
+               "count": 1
+            },
+            {
+               "name": "china",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Lyons",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "paris",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "cairo",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Howard Elphinstone",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Elphinstone",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "grosvenor hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Calvin",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Allah",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Ahmed Arabi",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Arab",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 1
+            },
+            {
+               "name": "equatoria",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Coetlogon",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Temple",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Samuel Clarke",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Abdul Shakur",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Dongola",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 1
+            },
+            {
+               "name": "nile",
+               "count": 1
+            },
+            {
+               "name": "dongola",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Il",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "france",
+               "count": 2
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "borghese gardens",
+               "count": 1
+            },
+            {
+               "name": "del",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Baker",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "europe",
+               "count": 2
+            },
+            {
+               "name": "sudan",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "equatoria",
+               "count": 1
+            },
+            {
+               "name": "nile",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Amir",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Power",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "sussex",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Press",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Sovereign",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "rome",
+               "count": 3
+            },
+            {
+               "name": "christendom",
+               "count": 1
+            },
+            {
+               "name": "italy",
+               "count": 1
+            },
+            {
+               "name": "eternal city",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Barber",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Lupton",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "cairo",
+               "count": 1
+            },
+            {
+               "name": "upper nile",
+               "count": 1
+            },
+            {
+               "name": "bey",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "equatoria",
+               "count": 1
+            },
+            {
+               "name": "central africa",
+               "count": 1
+            },
+            {
+               "name": "el obeid",
+               "count": 1
+            },
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Lord Granville",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "sudan",
+               "count": 2
+            },
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "David",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "harrow",
+               "count": 1
+            },
+            {
+               "name": "sudan",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Abbas",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "egypt",
+               "count": 1
+            },
+            {
+               "name": "nile",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Emin Pasha",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Excellence",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "church",
+               "count": 2
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Olivier",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Ernest",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Arthur Rimbaud",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Herbert Stewart",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Taha Shahin",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Hake",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Sir",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Butler",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Wingate",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Winston Churchill",
+         "count": 1,
+         "associated_places": []
+      }
+   ]
+}

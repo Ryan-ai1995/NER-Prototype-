@@ -1,0 +1,1524 @@
+{
+   "url": "https://www.gutenberg.org/cache/epub/64317/pg64317.txt",
+   "title": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "people": [
+      {
+         "name": "Daisy",
+         "count": 180,
+         "associated_places": [
+            {
+               "name": "sound",
+               "count": 5
+            },
+            {
+               "name": "chicago",
+               "count": 4
+            },
+            {
+               "name": "east",
+               "count": 4
+            },
+            {
+               "name": "louisville",
+               "count": 4
+            },
+            {
+               "name": "west",
+               "count": 4
+            },
+            {
+               "name": "west egg",
+               "count": 4
+            },
+            {
+               "name": "park",
+               "count": 4
+            },
+            {
+               "name": "york",
+               "count": 3
+            },
+            {
+               "name": "westchester",
+               "count": 2
+            },
+            {
+               "name": "asheville",
+               "count": 2
+            },
+            {
+               "name": "hot springs",
+               "count": 2
+            },
+            {
+               "name": "palm beach",
+               "count": 2
+            },
+            {
+               "name": "new york",
+               "count": 2
+            },
+            {
+               "name": "broadway",
+               "count": 2
+            },
+            {
+               "name": "long island",
+               "count": 2
+            },
+            {
+               "name": "plaza",
+               "count": 2
+            },
+            {
+               "name": "atlantic city",
+               "count": 2
+            },
+            {
+               "name": "montreal",
+               "count": 2
+            },
+            {
+               "name": "southampton",
+               "count": 2
+            },
+            {
+               "name": "east egg",
+               "count": 1
+            },
+            {
+               "name": "coney island",
+               "count": 1
+            },
+            {
+               "name": "jersey",
+               "count": 1
+            },
+            {
+               "name": "central park",
+               "count": 1
+            },
+            {
+               "name": "plaza hotel",
+               "count": 1
+            },
+            {
+               "name": "tennessee",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Tom",
+         "count": 172,
+         "associated_places": [
+            {
+               "name": "new york",
+               "count": 10
+            },
+            {
+               "name": "louisville",
+               "count": 8
+            },
+            {
+               "name": "east",
+               "count": 7
+            },
+            {
+               "name": "york",
+               "count": 7
+            },
+            {
+               "name": "chicago",
+               "count": 5
+            },
+            {
+               "name": "west",
+               "count": 4
+            },
+            {
+               "name": "coney island",
+               "count": 3
+            },
+            {
+               "name": "east egg",
+               "count": 2
+            },
+            {
+               "name": "tennessee",
+               "count": 2
+            },
+            {
+               "name": "park",
+               "count": 1
+            },
+            {
+               "name": "memphis",
+               "count": 1
+            },
+            {
+               "name": "biloxi",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "france",
+               "count": 1
+            },
+            {
+               "name": "atlantic city",
+               "count": 1
+            },
+            {
+               "name": "montreal",
+               "count": 1
+            },
+            {
+               "name": "camp taylor",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Wilson",
+         "count": 67,
+         "associated_places": [
+            {
+               "name": "new york",
+               "count": 11
+            },
+            {
+               "name": "east",
+               "count": 2
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "port roosevelt",
+               "count": 1
+            },
+            {
+               "name": "york",
+               "count": 1
+            },
+            {
+               "name": "detroit",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jordan",
+         "count": 61,
+         "associated_places": [
+            {
+               "name": "west egg",
+               "count": 6
+            },
+            {
+               "name": "new york",
+               "count": 2
+            },
+            {
+               "name": "oxford",
+               "count": 2
+            },
+            {
+               "name": "louisville",
+               "count": 2
+            },
+            {
+               "name": "tennessee",
+               "count": 2
+            },
+            {
+               "name": "westchester",
+               "count": 1
+            },
+            {
+               "name": "asheville",
+               "count": 1
+            },
+            {
+               "name": "hot springs",
+               "count": 1
+            },
+            {
+               "name": "palm beach",
+               "count": 1
+            },
+            {
+               "name": "sound",
+               "count": 1
+            },
+            {
+               "name": "france",
+               "count": 1
+            },
+            {
+               "name": "louisiana",
+               "count": 1
+            },
+            {
+               "name": "east side",
+               "count": 1
+            },
+            {
+               "name": "long island sound",
+               "count": 1
+            },
+            {
+               "name": "carnegie hall",
+               "count": 1
+            },
+            {
+               "name": "east egg",
+               "count": 1
+            },
+            {
+               "name": "america",
+               "count": 1
+            },
+            {
+               "name": "port roosevelt",
+               "count": 1
+            },
+            {
+               "name": "chicago",
+               "count": 1
+            },
+            {
+               "name": "park",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Nick",
+         "count": 24,
+         "associated_places": [
+            {
+               "name": "york",
+               "count": 4
+            },
+            {
+               "name": "louisville",
+               "count": 4
+            },
+            {
+               "name": "east",
+               "count": 2
+            },
+            {
+               "name": "fifth avenue",
+               "count": 2
+            },
+            {
+               "name": "westchester",
+               "count": 1
+            },
+            {
+               "name": "asheville",
+               "count": 1
+            },
+            {
+               "name": "hot springs",
+               "count": 1
+            },
+            {
+               "name": "palm beach",
+               "count": 1
+            },
+            {
+               "name": "west",
+               "count": 1
+            },
+            {
+               "name": "west egg",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Miss Baker",
+         "count": 18,
+         "associated_places": [
+            {
+               "name": "york",
+               "count": 4
+            },
+            {
+               "name": "east",
+               "count": 2
+            },
+            {
+               "name": "asheville",
+               "count": 1
+            },
+            {
+               "name": "hot springs",
+               "count": 1
+            },
+            {
+               "name": "palm beach",
+               "count": 1
+            },
+            {
+               "name": "louisville",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Myrtle",
+         "count": 17,
+         "associated_places": [
+            {
+               "name": "york",
+               "count": 1
+            },
+            {
+               "name": "detroit",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Tom Buchanan",
+         "count": 14,
+         "associated_places": [
+            {
+               "name": "east",
+               "count": 4
+            },
+            {
+               "name": "new york",
+               "count": 3
+            },
+            {
+               "name": "chicago",
+               "count": 1
+            },
+            {
+               "name": "queens",
+               "count": 1
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "long island",
+               "count": 1
+            },
+            {
+               "name": "fifth avenue",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "God",
+         "count": 14,
+         "associated_places": [
+            {
+               "name": "east",
+               "count": 2
+            },
+            {
+               "name": "oxford",
+               "count": 2
+            },
+            {
+               "name": "york",
+               "count": 1
+            },
+            {
+               "name": "west egg",
+               "count": 1
+            },
+            {
+               "name": "america",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Catherine",
+         "count": 14,
+         "associated_places": []
+      },
+      {
+         "name": "Mr",
+         "count": 13,
+         "associated_places": [
+            {
+               "name": "versailles",
+               "count": 3
+            },
+            {
+               "name": "sound",
+               "count": 1
+            },
+            {
+               "name": "normandy",
+               "count": 1
+            },
+            {
+               "name": "east egg",
+               "count": 1
+            },
+            {
+               "name": "westchester",
+               "count": 1
+            },
+            {
+               "name": "asheville",
+               "count": 1
+            },
+            {
+               "name": "hot springs",
+               "count": 1
+            },
+            {
+               "name": "palm beach",
+               "count": 1
+            },
+            {
+               "name": "pennsylvania station",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Cody",
+         "count": 11,
+         "associated_places": [
+            {
+               "name": "west indies",
+               "count": 5
+            },
+            {
+               "name": "barbary coast",
+               "count": 5
+            },
+            {
+               "name": "boston",
+               "count": 5
+            },
+            {
+               "name": "lake superior",
+               "count": 4
+            },
+            {
+               "name": "duluth",
+               "count": 4
+            },
+            {
+               "name": "long island",
+               "count": 2
+            },
+            {
+               "name": "north dakota",
+               "count": 2
+            },
+            {
+               "name": "tuolomee",
+               "count": 2
+            },
+            {
+               "name": "nevada",
+               "count": 2
+            },
+            {
+               "name": "yukon",
+               "count": 2
+            },
+            {
+               "name": "montana",
+               "count": 2
+            },
+            {
+               "name": "minnesota",
+               "count": 2
+            },
+            {
+               "name": "lake",
+               "count": 2
+            },
+            {
+               "name": "superior",
+               "count": 2
+            },
+            {
+               "name": "canada",
+               "count": 1
+            },
+            {
+               "name": "west",
+               "count": 1
+            },
+            {
+               "name": "little girl bay",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Baker",
+         "count": 10,
+         "associated_places": [
+            {
+               "name": "york",
+               "count": 3
+            },
+            {
+               "name": "east",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Sloane",
+         "count": 10,
+         "associated_places": []
+      },
+      {
+         "name": "Jordan Baker",
+         "count": 9,
+         "associated_places": [
+            {
+               "name": "westchester",
+               "count": 1
+            },
+            {
+               "name": "asheville",
+               "count": 1
+            },
+            {
+               "name": "hot springs",
+               "count": 1
+            },
+            {
+               "name": "palm beach",
+               "count": 1
+            },
+            {
+               "name": "sound",
+               "count": 1
+            },
+            {
+               "name": "forties",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "George",
+         "count": 9,
+         "associated_places": [
+            {
+               "name": "new york",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Buchanan",
+         "count": 7,
+         "associated_places": [
+            {
+               "name": "east",
+               "count": 4
+            },
+            {
+               "name": "new york",
+               "count": 2
+            },
+            {
+               "name": "chicago",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Don",
+         "count": 6,
+         "associated_places": [
+            {
+               "name": "east",
+               "count": 3
+            },
+            {
+               "name": "new haven",
+               "count": 1
+            },
+            {
+               "name": "york",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jay",
+         "count": 6,
+         "associated_places": [
+            {
+               "name": "montenegro",
+               "count": 4
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "doncaster",
+               "count": 1
+            },
+            {
+               "name": "grand canal",
+               "count": 1
+            },
+            {
+               "name": "port roosevelt",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Myrtle Wilson",
+         "count": 5,
+         "associated_places": [
+            {
+               "name": "new york",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Carraway",
+         "count": 5,
+         "associated_places": [
+            {
+               "name": "westchester",
+               "count": 1
+            },
+            {
+               "name": "asheville",
+               "count": 1
+            },
+            {
+               "name": "hot springs",
+               "count": 1
+            },
+            {
+               "name": "palm beach",
+               "count": 1
+            },
+            {
+               "name": "west egg",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jimmy",
+         "count": 5,
+         "associated_places": [
+            {
+               "name": "chicago",
+               "count": 2
+            },
+            {
+               "name": "east",
+               "count": 2
+            },
+            {
+               "name": "west",
+               "count": 1
+            },
+            {
+               "name": "west egg",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jay Gatsby",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "lake superior",
+               "count": 3
+            },
+            {
+               "name": "west",
+               "count": 3
+            },
+            {
+               "name": "long island",
+               "count": 2
+            },
+            {
+               "name": "tuolomee",
+               "count": 2
+            },
+            {
+               "name": "north dakota",
+               "count": 1
+            },
+            {
+               "name": "lake",
+               "count": 1
+            },
+            {
+               "name": "superior",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dan Cody",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "lake superior",
+               "count": 2
+            },
+            {
+               "name": "duluth",
+               "count": 2
+            },
+            {
+               "name": "west indies",
+               "count": 2
+            },
+            {
+               "name": "barbary coast",
+               "count": 2
+            },
+            {
+               "name": "boston",
+               "count": 2
+            },
+            {
+               "name": "canada",
+               "count": 1
+            },
+            {
+               "name": "long island",
+               "count": 1
+            },
+            {
+               "name": "north dakota",
+               "count": 1
+            },
+            {
+               "name": "tuolomee",
+               "count": 1
+            },
+            {
+               "name": "nevada",
+               "count": 1
+            },
+            {
+               "name": "yukon",
+               "count": 1
+            },
+            {
+               "name": "montana",
+               "count": 1
+            },
+            {
+               "name": "minnesota",
+               "count": 1
+            },
+            {
+               "name": "lake",
+               "count": 1
+            },
+            {
+               "name": "superior",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Walter",
+         "count": 4,
+         "associated_places": []
+      },
+      {
+         "name": "George Wilson",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Chester",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Finn",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "coney island",
+               "count": 1
+            },
+            {
+               "name": "west",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dan",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "west indies",
+               "count": 1
+            },
+            {
+               "name": "barbary coast",
+               "count": 1
+            },
+            {
+               "name": "boston",
+               "count": 1
+            },
+            {
+               "name": "atlantic city",
+               "count": 1
+            },
+            {
+               "name": "montreal",
+               "count": 1
+            },
+            {
+               "name": "camp taylor",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "James Gatz",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "long island",
+               "count": 3
+            },
+            {
+               "name": "north dakota",
+               "count": 2
+            },
+            {
+               "name": "lake superior",
+               "count": 2
+            },
+            {
+               "name": "tuolomee",
+               "count": 2
+            },
+            {
+               "name": "canada",
+               "count": 1
+            },
+            {
+               "name": "west",
+               "count": 1
+            },
+            {
+               "name": "yukon",
+               "count": 1
+            },
+            {
+               "name": "montana",
+               "count": 1
+            },
+            {
+               "name": "little girl bay",
+               "count": 1
+            },
+            {
+               "name": "duluth",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Michaelis",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Scott Fitzgerald",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 4
+            }
+         ]
+      },
+      {
+         "name": "Edgar",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "east egg",
+               "count": 1
+            },
+            {
+               "name": "maine",
+               "count": 1
+            },
+            {
+               "name": "chicago",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "De",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "sound",
+               "count": 1
+            },
+            {
+               "name": "west egg",
+               "count": 1
+            },
+            {
+               "name": "normandy",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Katspaugh",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Meyer",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Ewing",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Ella Kaye",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "nevada",
+               "count": 1
+            },
+            {
+               "name": "yukon",
+               "count": 1
+            },
+            {
+               "name": "montana",
+               "count": 1
+            },
+            {
+               "name": "little girl bay",
+               "count": 1
+            },
+            {
+               "name": "lake superior",
+               "count": 1
+            },
+            {
+               "name": "lake",
+               "count": 1
+            },
+            {
+               "name": "superior",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "In",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Dodge",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "west egg",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Goddard",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "John",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Rockefeller",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Simon",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Peter",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Kaiser Wilhelm",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Dai",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Gilda Gray",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "long island",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Lucille",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Roosevelt",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "To",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Howard",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Eyes",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Warwick",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Love",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "chicago",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Von Hindenburg",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "east egg",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Black",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "chicago",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hubert",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "east egg",
+               "count": 2
+            },
+            {
+               "name": "maine",
+               "count": 1
+            },
+            {
+               "name": "island",
+               "count": 1
+            },
+            {
+               "name": "georgia",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Beaver",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "east egg",
+               "count": 1
+            },
+            {
+               "name": "maine",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Clarence Endive",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "east egg",
+               "count": 1
+            },
+            {
+               "name": "maine",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Etty",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "maine",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Snell",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Ulysses Swett",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Whitebait",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Cecil Roebuck",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Newton Orchid",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Clyde Cohen",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Schwartz",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Da Fontano",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Gus",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Horace",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Lester",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Francis",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Betty",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Henry",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Benny",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Consuela",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Gloria",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Judy",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Brien",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Brewer",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Miss Haag",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Jewett",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Claudia Hip",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Duke",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Nicolas Rex",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "montenegro",
+               "count": 4
+            },
+            {
+               "name": "oxford",
+               "count": 1
+            },
+            {
+               "name": "doncaster",
+               "count": 1
+            },
+            {
+               "name": "grand canal",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Earl",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Becker",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "metropole",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Daisy Fay",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Clay",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Adam",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Ella",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "west indies",
+               "count": 1
+            },
+            {
+               "name": "barbary coast",
+               "count": 1
+            },
+            {
+               "name": "boston",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Kaye",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "nevada",
+               "count": 1
+            },
+            {
+               "name": "yukon",
+               "count": 1
+            },
+            {
+               "name": "montana",
+               "count": 1
+            },
+            {
+               "name": "little girl bay",
+               "count": 1
+            },
+            {
+               "name": "lake superior",
+               "count": 1
+            },
+            {
+               "name": "lake",
+               "count": 1
+            },
+            {
+               "name": "superior",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Thomas",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Daddy",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Eckleburg",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Bill Biloxi",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "louisville",
+               "count": 1
+            },
+            {
+               "name": "tennessee",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Asa Bird",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Doctor",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Stella",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "chicago",
+               "count": 4
+            }
+         ]
+      }
+   ]
+}

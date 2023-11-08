@@ -1,0 +1,1922 @@
+{
+   "url": "https://www.gutenberg.org/cache/epub/345/pg345.txt",
+   "title": "Dracula",
+   "author": "Bram Stoker",
+   "people": [
+      {
+         "name": "Lucy",
+         "count": 263,
+         "associated_places": [
+            {
+               "name": "hillingham",
+               "count": 3
+            },
+            {
+               "name": "united states",
+               "count": 2
+            },
+            {
+               "name": "dracula",
+               "count": 2
+            },
+            {
+               "name": "crescent",
+               "count": 2
+            },
+            {
+               "name": "north terrace",
+               "count": 2
+            },
+            {
+               "name": "albemarle hotel",
+               "count": 2
+            },
+            {
+               "name": "united states of america",
+               "count": 1
+            },
+            {
+               "name": "transylvania",
+               "count": 1
+            },
+            {
+               "name": "whitby",
+               "count": 1
+            },
+            {
+               "name": "great eastern hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Mina",
+         "count": 186,
+         "associated_places": [
+            {
+               "name": "transylvania",
+               "count": 9
+            },
+            {
+               "name": "dracula",
+               "count": 3
+            },
+            {
+               "name": "united states",
+               "count": 2
+            },
+            {
+               "name": "london",
+               "count": 2
+            },
+            {
+               "name": "mile end",
+               "count": 2
+            },
+            {
+               "name": "united states of america",
+               "count": 1
+            },
+            {
+               "name": "british museum",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            },
+            {
+               "name": "carpathian",
+               "count": 1
+            },
+            {
+               "name": "moldavia",
+               "count": 1
+            },
+            {
+               "name": "europe",
+               "count": 1
+            },
+            {
+               "name": "castle dracula",
+               "count": 1
+            },
+            {
+               "name": "bistritz",
+               "count": 1
+            },
+            {
+               "name": "south",
+               "count": 1
+            },
+            {
+               "name": "west",
+               "count": 1
+            },
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "north",
+               "count": 1
+            },
+            {
+               "name": "pit",
+               "count": 1
+            },
+            {
+               "name": "whitby",
+               "count": 1
+            },
+            {
+               "name": "fenchurch street",
+               "count": 1
+            },
+            {
+               "name": "of the",
+               "count": 1
+            },
+            {
+               "name": "paris",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jonathan",
+         "count": 179,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 4
+            },
+            {
+               "name": "exeter",
+               "count": 4
+            },
+            {
+               "name": "transylvania",
+               "count": 3
+            },
+            {
+               "name": "of the",
+               "count": 2
+            },
+            {
+               "name": "bistritz",
+               "count": 2
+            },
+            {
+               "name": "munich",
+               "count": 1
+            },
+            {
+               "name": "vienna",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            },
+            {
+               "name": "borgo pass",
+               "count": 1
+            },
+            {
+               "name": "charing",
+               "count": 1
+            },
+            {
+               "name": "cross",
+               "count": 1
+            },
+            {
+               "name": "paris",
+               "count": 1
+            },
+            {
+               "name": "bistritza",
+               "count": 1
+            },
+            {
+               "name": "sereth",
+               "count": 1
+            },
+            {
+               "name": "castle",
+               "count": 1
+            },
+            {
+               "name": "pass",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "God",
+         "count": 175,
+         "associated_places": [
+            {
+               "name": "south",
+               "count": 3
+            },
+            {
+               "name": "carfax",
+               "count": 3
+            },
+            {
+               "name": "london",
+               "count": 3
+            },
+            {
+               "name": "transylvania",
+               "count": 2
+            },
+            {
+               "name": "straits of dover",
+               "count": 2
+            },
+            {
+               "name": "north foreland",
+               "count": 2
+            },
+            {
+               "name": "north sea",
+               "count": 2
+            },
+            {
+               "name": "sereth",
+               "count": 2
+            },
+            {
+               "name": "bistritza",
+               "count": 2
+            },
+            {
+               "name": "fundu",
+               "count": 2
+            },
+            {
+               "name": "bistritz",
+               "count": 1
+            },
+            {
+               "name": "hungary",
+               "count": 1
+            },
+            {
+               "name": "pit",
+               "count": 1
+            },
+            {
+               "name": "korea",
+               "count": 1
+            },
+            {
+               "name": "whitby",
+               "count": 1
+            },
+            {
+               "name": "ring",
+               "count": 1
+            },
+            {
+               "name": "esk",
+               "count": 1
+            },
+            {
+               "name": "tate hill pier",
+               "count": 1
+            },
+            {
+               "name": "klausenburg",
+               "count": 1
+            },
+            {
+               "name": "renfield",
+               "count": 1
+            },
+            {
+               "name": "port",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "of the",
+               "count": 1
+            },
+            {
+               "name": "cross",
+               "count": 1
+            },
+            {
+               "name": "paris",
+               "count": 1
+            },
+            {
+               "name": "dardanelles",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            },
+            {
+               "name": "galatz",
+               "count": 1
+            },
+            {
+               "name": "castle",
+               "count": 1
+            },
+            {
+               "name": "purfleet",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Arthur",
+         "count": 131,
+         "associated_places": [
+            {
+               "name": "texas",
+               "count": 2
+            },
+            {
+               "name": "korea",
+               "count": 1
+            },
+            {
+               "name": "crescent",
+               "count": 1
+            },
+            {
+               "name": "esk",
+               "count": 1
+            },
+            {
+               "name": "whitby",
+               "count": 1
+            },
+            {
+               "name": "albemarle hotel",
+               "count": 1
+            },
+            {
+               "name": "hillingham",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "John",
+         "count": 60,
+         "associated_places": [
+            {
+               "name": "hillingham",
+               "count": 1
+            },
+            {
+               "name": "great eastern hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Morris",
+         "count": 50,
+         "associated_places": [
+            {
+               "name": "crescent",
+               "count": 2
+            },
+            {
+               "name": "esk",
+               "count": 2
+            },
+            {
+               "name": "texas",
+               "count": 1
+            },
+            {
+               "name": "marquesas",
+               "count": 1
+            },
+            {
+               "name": "korea",
+               "count": 1
+            },
+            {
+               "name": "park",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Seward",
+         "count": 27,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 11
+            },
+            {
+               "name": "united states of america",
+               "count": 4
+            },
+            {
+               "name": "dracula",
+               "count": 3
+            },
+            {
+               "name": "hillingham",
+               "count": 3
+            },
+            {
+               "name": "munich",
+               "count": 1
+            },
+            {
+               "name": "marquesas",
+               "count": 1
+            },
+            {
+               "name": "korea",
+               "count": 1
+            },
+            {
+               "name": "renfield",
+               "count": 1
+            },
+            {
+               "name": "albemarle hotel",
+               "count": 1
+            },
+            {
+               "name": "great eastern hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Van Helsing",
+         "count": 26,
+         "associated_places": [
+            {
+               "name": "amsterdam",
+               "count": 2
+            },
+            {
+               "name": "hillingham",
+               "count": 2
+            },
+            {
+               "name": "great eastern hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dracula",
+         "count": 23,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 14
+            },
+            {
+               "name": "dracula",
+               "count": 12
+            },
+            {
+               "name": "transylvania",
+               "count": 5
+            },
+            {
+               "name": "east",
+               "count": 4
+            },
+            {
+               "name": "united states of america",
+               "count": 3
+            },
+            {
+               "name": "carpathian",
+               "count": 2
+            },
+            {
+               "name": "moldavia",
+               "count": 2
+            },
+            {
+               "name": "europe",
+               "count": 2
+            },
+            {
+               "name": "castle dracula",
+               "count": 2
+            },
+            {
+               "name": "bistritz",
+               "count": 2
+            },
+            {
+               "name": "south",
+               "count": 2
+            },
+            {
+               "name": "west",
+               "count": 2
+            },
+            {
+               "name": "north",
+               "count": 2
+            },
+            {
+               "name": "munich",
+               "count": 1
+            },
+            {
+               "name": "vienna",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            },
+            {
+               "name": "british museum",
+               "count": 1
+            },
+            {
+               "name": "borgo pass",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Van",
+         "count": 21,
+         "associated_places": [
+            {
+               "name": "hillingham",
+               "count": 1
+            },
+            {
+               "name": "great eastern hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hawkins",
+         "count": 19,
+         "associated_places": []
+      },
+      {
+         "name": "Art",
+         "count": 16,
+         "associated_places": [
+            {
+               "name": "marquesas",
+               "count": 1
+            },
+            {
+               "name": "korea",
+               "count": 1
+            },
+            {
+               "name": "crescent",
+               "count": 1
+            },
+            {
+               "name": "esk",
+               "count": 1
+            },
+            {
+               "name": "hillingham",
+               "count": 1
+            },
+            {
+               "name": "great eastern hotel",
+               "count": 1
+            },
+            {
+               "name": "amsterdam",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Dr",
+         "count": 13,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 11
+            },
+            {
+               "name": "dracula",
+               "count": 4
+            },
+            {
+               "name": "united states of america",
+               "count": 4
+            },
+            {
+               "name": "munich",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Mina Murray",
+         "count": 11,
+         "associated_places": [
+            {
+               "name": "dracula",
+               "count": 10
+            },
+            {
+               "name": "united states",
+               "count": 8
+            },
+            {
+               "name": "united states of america",
+               "count": 4
+            },
+            {
+               "name": "crescent",
+               "count": 1
+            },
+            {
+               "name": "esk",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Catherine",
+         "count": 11,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 2
+            },
+            {
+               "name": "of the",
+               "count": 1
+            },
+            {
+               "name": "charing",
+               "count": 1
+            },
+            {
+               "name": "cross",
+               "count": 1
+            },
+            {
+               "name": "paris",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jonathan Harker",
+         "count": 9,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 13
+            },
+            {
+               "name": "dracula",
+               "count": 12
+            },
+            {
+               "name": "united states of america",
+               "count": 4
+            }
+         ]
+      },
+      {
+         "name": "Jack",
+         "count": 9,
+         "associated_places": [
+            {
+               "name": "albemarle hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Arthur Holmwood",
+         "count": 8,
+         "associated_places": [
+            {
+               "name": "hillingham",
+               "count": 2
+            },
+            {
+               "name": "marquesas",
+               "count": 1
+            },
+            {
+               "name": "korea",
+               "count": 1
+            },
+            {
+               "name": "whitby",
+               "count": 1
+            },
+            {
+               "name": "albemarle hotel",
+               "count": 1
+            },
+            {
+               "name": "great eastern hotel",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Lord",
+         "count": 7,
+         "associated_places": [
+            {
+               "name": "straits of dover",
+               "count": 1
+            },
+            {
+               "name": "north foreland",
+               "count": 1
+            },
+            {
+               "name": "north sea",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Peter Hawkins",
+         "count": 6,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 5
+            },
+            {
+               "name": "exeter",
+               "count": 4
+            }
+         ]
+      },
+      {
+         "name": "Skin",
+         "count": 6,
+         "associated_places": []
+      },
+      {
+         "name": "Be",
+         "count": 5,
+         "associated_places": [
+            {
+               "name": "transylvania",
+               "count": 5
+            },
+            {
+               "name": "east",
+               "count": 4
+            },
+            {
+               "name": "london",
+               "count": 2
+            },
+            {
+               "name": "british museum",
+               "count": 2
+            },
+            {
+               "name": "south",
+               "count": 2
+            },
+            {
+               "name": "bistritz",
+               "count": 2
+            },
+            {
+               "name": "west",
+               "count": 2
+            },
+            {
+               "name": "north",
+               "count": 2
+            },
+            {
+               "name": "munich",
+               "count": 1
+            },
+            {
+               "name": "vienna",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            },
+            {
+               "name": "carpathian",
+               "count": 1
+            },
+            {
+               "name": "moldavia",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Ha",
+         "count": 5,
+         "associated_places": []
+      },
+      {
+         "name": "Billington",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "the crescent",
+               "count": 1
+            },
+            {
+               "name": "whitby",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "John Seward",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "exeter",
+               "count": 1
+            },
+            {
+               "name": "purfleet",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Agatha",
+         "count": 4,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "exeter",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Renfield",
+         "count": 4,
+         "associated_places": []
+      },
+      {
+         "name": "Lord Godalming",
+         "count": 4,
+         "associated_places": []
+      },
+      {
+         "name": "Sam",
+         "count": 4,
+         "associated_places": []
+      },
+      {
+         "name": "Bram Stoker",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 11
+            },
+            {
+               "name": "dracula",
+               "count": 10
+            },
+            {
+               "name": "united states of america",
+               "count": 3
+            }
+         ]
+      },
+      {
+         "name": "Se",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "West",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "munich",
+               "count": 1
+            },
+            {
+               "name": "vienna",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            },
+            {
+               "name": "south",
+               "count": 1
+            },
+            {
+               "name": "transylvania",
+               "count": 1
+            },
+            {
+               "name": "castle dracula",
+               "count": 1
+            },
+            {
+               "name": "bistritz",
+               "count": 1
+            },
+            {
+               "name": "west",
+               "count": 1
+            },
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "north",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Thomas",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "zo\u00f6logical gardens",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Vincent",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 2
+            },
+            {
+               "name": "north hospital",
+               "count": 1
+            },
+            {
+               "name": "amsterdam",
+               "count": 1
+            },
+            {
+               "name": "south",
+               "count": 1
+            },
+            {
+               "name": "zo\u00f6logical gardens",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Miss Lucy",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Hark",
+         "count": 3,
+         "associated_places": [
+            {
+               "name": "pit",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Enoch",
+         "count": 3,
+         "associated_places": []
+      },
+      {
+         "name": "Mina Harker",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 2
+            },
+            {
+               "name": "united states of america",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Satan",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Hamlet",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Shakespeare",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Murray",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "dracula",
+               "count": 5
+            },
+            {
+               "name": "united states",
+               "count": 4
+            },
+            {
+               "name": "united states of america",
+               "count": 2
+            }
+         ]
+      },
+      {
+         "name": "Holmwood",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "John Paxton",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "andres",
+               "count": 2
+            },
+            {
+               "name": "greenland",
+               "count": 2
+            },
+            {
+               "name": "cape farewell",
+               "count": 1
+            },
+            {
+               "name": "gulf",
+               "count": 1
+            },
+            {
+               "name": "finland",
+               "count": 1
+            },
+            {
+               "name": "exeter",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "hyde park corner",
+               "count": 1
+            },
+            {
+               "name": "row",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Death",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Mother",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Abraham",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Green",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Carter Paterson",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Mr",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Mitchell",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "De Ville",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "adelphi theatre",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "galatz",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Quincey",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "marquesas",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Devil",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "pit",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Godalming",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Mad",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Donelson",
+         "count": 2,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 3
+            },
+            {
+               "name": "hildesheim",
+               "count": 3
+            },
+            {
+               "name": "galatz",
+               "count": 2
+            },
+            {
+               "name": "black sea",
+               "count": 1
+            },
+            {
+               "name": "varna",
+               "count": 1
+            },
+            {
+               "name": "england",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Professor",
+         "count": 2,
+         "associated_places": []
+      },
+      {
+         "name": "Attila",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "transylvania",
+               "count": 1
+            },
+            {
+               "name": "bistritz",
+               "count": 1
+            },
+            {
+               "name": "south",
+               "count": 1
+            },
+            {
+               "name": "west",
+               "count": 1
+            },
+            {
+               "name": "east",
+               "count": 1
+            },
+            {
+               "name": "north",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "George",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Or",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 4
+            },
+            {
+               "name": "dracula",
+               "count": 4
+            },
+            {
+               "name": "united states of america",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Whitaker",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "england",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Cassova",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "wallach",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Samuel",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "the crescent",
+               "count": 1
+            },
+            {
+               "name": "whitby",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Herr",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "borgo pass",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Judas",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Jack Seward",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "marquesas",
+               "count": 1
+            },
+            {
+               "name": "korea",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Lowrey",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "andres",
+               "count": 2
+            },
+            {
+               "name": "greenland",
+               "count": 2
+            },
+            {
+               "name": "cape farewell",
+               "count": 1
+            },
+            {
+               "name": "gulf",
+               "count": 1
+            },
+            {
+               "name": "finland",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Andrew Woodhouse",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "andres",
+               "count": 2
+            },
+            {
+               "name": "greenland",
+               "count": 2
+            },
+            {
+               "name": "cape farewell",
+               "count": 1
+            },
+            {
+               "name": "gulf",
+               "count": 1
+            },
+            {
+               "name": "finland",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "George Canon",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "kettleness",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Gabriel",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Angel",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Petrofsky",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "archipelago",
+               "count": 1
+            },
+            {
+               "name": "cape matapan",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Cliff",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Mackenzie",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "mulgrave woods",
+               "count": 1
+            },
+            {
+               "name": "casino terrace",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Rose",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Wilhelmina Murray",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "exeter",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "St",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Jack Sheppard",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Wilhelmina",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Nature",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Madame",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Got",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "munich",
+               "count": 1
+            },
+            {
+               "name": "vienna",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Vanderpool",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "haarlem",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Ho",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Father",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Patrick Hennessey",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Thomas Snelling",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "great walworth",
+               "count": 1
+            },
+            {
+               "name": "guide court",
+               "count": 1
+            },
+            {
+               "name": "bethnal green",
+               "count": 1
+            },
+            {
+               "name": "soho",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Peter Farley",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "great walworth",
+               "count": 1
+            },
+            {
+               "name": "guide court",
+               "count": 1
+            },
+            {
+               "name": "bethnal green",
+               "count": 1
+            },
+            {
+               "name": "soho",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Ellen Terry",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Mary",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "north terrace",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Met",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Old",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "china",
+               "count": 1
+            },
+            {
+               "name": "france",
+               "count": 1
+            },
+            {
+               "name": "germany",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Byron",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "north hospital",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Jack Straw",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "castle",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Scott",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "amsterdam",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Van Hels",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Thor",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Good",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hennessey",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Al",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Monroe",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "windham",
+               "count": 1
+            },
+            {
+               "name": "derby",
+               "count": 1
+            },
+            {
+               "name": "pole",
+               "count": 1
+            },
+            {
+               "name": "tropics",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Joseph",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Candy",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Simmons",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Moon",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Mrs",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Arminus",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Professor Van Helsing",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "amsterdam",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Judge Moneybag",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "dardanelles",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Rufus Smith",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "dardanelles",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Harker",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "united states",
+               "count": 3
+            },
+            {
+               "name": "dracula",
+               "count": 3
+            },
+            {
+               "name": "united states of america",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Morris Quincey",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "danube",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Hans Andersen",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "the great river",
+               "count": 1
+            },
+            {
+               "name": "turkey land",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Providence",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "De",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Hildesheim",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "adelphi theatre",
+               "count": 1
+            },
+            {
+               "name": "london",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Peter",
+         "count": 1,
+         "associated_places": []
+      },
+      {
+         "name": "Him",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "borgo pass",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "He",
+         "count": 1,
+         "associated_places": [
+            {
+               "name": "london",
+               "count": 1
+            },
+            {
+               "name": "danube",
+               "count": 1
+            },
+            {
+               "name": "transylvania",
+               "count": 1
+            },
+            {
+               "name": "british museum",
+               "count": 1
+            }
+         ]
+      },
+      {
+         "name": "Ra",
+         "count": 1,
+         "associated_places": []
+      }
+   ]
+}
